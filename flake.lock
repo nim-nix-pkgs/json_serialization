@@ -328,11 +328,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667336231,
-        "narHash": "sha256-Vll7MVmNXs8rYQIgn1qREdZ3L7rNssKx9rFRpmNb0nU=",
+        "lastModified": 1668751198,
+        "narHash": "sha256-GgPRuB5pALwdCOnspREplGT0gMC8D+plrgo9+7BLdSI=",
         "owner": "nim-nix-pkgs",
         "repo": "json_serialization",
-        "rev": "ddbeeac937cf53a6a34d13e9d4f61c20651f2d83",
+        "rev": "4721a29d1b859f9f42ae50aa1b1c8f27c9abb565",
         "type": "github"
       },
       "original": {
